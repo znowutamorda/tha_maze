@@ -1,0 +1,1 @@
+tha maze is a simple, terminal-based maze traversal game written in Bash. The maze is randomly generated each time using a depth-first search algorithm. Players, represented by the character 'O', navigate the maze using the WASD keys, aiming to reach the finish point marked by an empty space.
